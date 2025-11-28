@@ -40,4 +40,4 @@ Alert thresholds not met. Skipping email.
 ---
 ```
 
-Alerts will be sent via email if they meet the criteria defined in the `.env` file.
+Alerts will be sent via email if they meet the criteria defined in the `.env` file (eg. distance, altitude, est. time from location).
