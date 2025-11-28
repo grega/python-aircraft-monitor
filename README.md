@@ -1,4 +1,4 @@
-# Aircraft finder
+# Aircraft monitor
 
 Script for monitoring and alerting on specific aircraft types within a certain radius of a given location, using the [Flight Finder API](https://github.com/grega/flight-finder).
 
