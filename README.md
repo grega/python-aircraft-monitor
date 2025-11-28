@@ -35,7 +35,7 @@ Found 23 flights in radius.
 --- 2 A400(s) detected ---
 🚨 LOW ALTITUDE ALERT: A400 ASLAN78 at 267m, 127.7km away, inf minutes until closest approach.
 Alert thresholds not met. Skipping email.
-ℹ️ A400 detected: FLTOT49 at 1219m, 43.3km away, inf minutes until closest approach.
+ℹ️ A400 detected: FLTOT49 at 1219m, 43.3km away, 6 minutes until closest approach.
 Alert thresholds not met. Skipping email.
 ---
 ```
